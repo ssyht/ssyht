@@ -69,7 +69,7 @@ I like turning complex infrastructure + data problems into clear, **copy-paste-r
 
 ---
 
-## 👨‍💻 Languages 
+## 👨‍💻 Programming Languages 
 <p align="center">
   <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" height="44" alt="C"></a>
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++"></a>
