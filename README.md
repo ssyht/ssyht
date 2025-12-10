@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# ✨ Sanjit Subhash
+# Sanjit Subhash
 
 **Data Science @ University of Missouri, Columbia (’26)**  
 Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
@@ -18,7 +18,7 @@ Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 
 ---
 
-## 🚀 Now
+## Now
 - **Accepted Offer:** **Data Platform Engineer Intern, Centene Corporation (Summer 2026, St. Louis, MO)** — excited to build reliable, scalable data platforms that power analytics and products.  
 - Building **Terraform + Arculus** zero-trust lab modules for students (IaC, guardrails, SSM-only access).
 - Shipping **data migration** patterns (SQL Server → **Aurora PostgreSQL**) with DMS, Secrets Manager rotation, and event-driven CDC.
@@ -26,16 +26,16 @@ Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 
 ---
 
-## 🧭 About me
+## About me
 I like turning complex infrastructure + data problems into clear, **copy-paste-ready** guides that others can learn from. My work spans **cloud automation**, **secure edge computing**, and **AI systems**—with an eye for clean, Apple-like UIs and developer experience.
 
-- 🎓 B.S. **Data Science** (Minor: CS), **University of Missouri – Columbia** (Dec 2026)  
-- 🛠️ I design student-friendly **hands-on labs** (Terraform, EC2/SSM, Docker, Arculus) and contribute to **confidential computing** research.
-- 🎬 I also produce creative media (short films, posters, motion graphics) because storytelling matters.
+- B.S. **Data Science** (Minor: CS), **University of Missouri – Columbia** (Dec 2026)  
+- I design student-friendly **hands-on labs** (Terraform, EC2/SSM, Docker, Arculus) and contribute to **confidential computing** research.
+- I also produce creative media (short films, posters, motion graphics) because storytelling matters.
 
 ---
 
-## 🧪 Highlights
+## Highlights
 - Integrated **Gemini 2.0 Flash + MCP** inside the **Certifier Framework** for a multilingual budgeting assistant (React/Vite + FastAPI).  
 - Built an AMI-based **student lab** with pre-baked Docker stacks, SSM-only access, and minimal public ingress.  
 - Designed **CDC pipelines** with **AWS DMS + EventBridge** and IaC guardrails.  
@@ -43,7 +43,7 @@ I like turning complex infrastructure + data problems into clear, **copy-paste-r
 
 ---
 
-## 🛠️ Tools & Platforms I use
+## Tools & Platforms I use
 **Cloud & IaC**  
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
@@ -69,7 +69,7 @@ I like turning complex infrastructure + data problems into clear, **copy-paste-r
 
 ---
 
-## 👨‍💻 Programming Languages 
+## Programming Languages 
 <p align="center">
   <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" height="44" alt="C"></a>
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++"></a>
@@ -90,7 +90,7 @@ I like turning complex infrastructure + data problems into clear, **copy-paste-r
 
 ---
 
-## 🧩 Selected projects
+## Selected projects
 - **PlanPilot — Multilingual Budget Assistant**  
   Confidential AI + MCP integration; **React/Vite** frontend, **FastAPI** backend; multi-language UI with charting & secure prompts.
 - **Arculus Edge Security Labs (Terraform)**  
@@ -102,20 +102,20 @@ I like turning complex infrastructure + data problems into clear, **copy-paste-r
 
 ---
 
-## ✍️ Writing & teaching
+## Writing & teaching
 - Lab modules on **IaC for Zero-Trust**, **edge security**, and **confidential computing** that students can run in under an hour.
 - Step-by-step **migration playbooks** (DMS CDC, Secrets rotation, EventBridge triggers).
 - Research notes around **TEEs** (SGX/SEV-class), attestation, and secure data/compute paths.
 
 ---
 
-## 📊 By the numbers (auto widgets)
+## By the numbers (auto widgets)
 ![Sanjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyht&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyht&layout=compact)
 
 ---
 
-## 🤝 Let’s connect
+## Let’s connect
 - **LinkedIn:** [linkedin.com/in/sanjit-subhash-69a29a224](https://www.linkedin.com/in/sanjit-subhash-69a29a224/)  
 - **Email:** sanjit.subhash@gmail.com
 
