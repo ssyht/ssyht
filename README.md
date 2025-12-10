@@ -7,6 +7,7 @@
 
 # Sanjit Subhash
 
+**Research Assistant at CERI/VIMAN Lab (Engineering Department)**  
 **Data Science @ University of Missouri, Columbia (’26)**  
 Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 
