@@ -11,10 +11,6 @@
 **Data Science @ University of Missouri, Columbia (’26)**  
 Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sanjit-subhash-69a29a224/)
-[![GitHub Followers](https://img.shields.io/github/followers/ssyht?label=Follow&style=social)](https://github.com/ssyht)
-![Profile Views](https://komarev.com/ghpvc/?username=ssyht&style=flat)
-
 </div>
 
 ---
