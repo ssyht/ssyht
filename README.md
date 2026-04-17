@@ -16,7 +16,7 @@ Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 ---
 
 ## Now
-- **Accepted Offer:** **Data Platform Engineer Intern, Centene Corporation (Summer 2026, St. Louis, MO)** — excited to build reliable, scalable data platforms that power analytics and products.  
+- **Accepted Offer:** **Technology Summer Analyst Intern, Accenture (Summer 2026, Morristown, New Jersey)** — excited to build reliable, scalable data platforms that power analytics and products.  
 - Building **Terraform + Arculus** zero-trust lab modules for students (IaC, guardrails, SSM-only access).
 - Shipping **data migration** patterns (SQL Server → **Aurora PostgreSQL**) with DMS, Secrets Manager rotation, and event-driven CDC.
 - Prototyping **Confidential AI** workflows (LLMs + TEEs) and **medical image anomaly detection**.
