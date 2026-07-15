@@ -7,7 +7,7 @@
 
 # Sanjit Subhash
 
-**Research Assistant at Cyber Education, Research & Infrastructure Lab (Engineering Department)**  
+**Technology Architecture Analyst at New York**  
 **Data Science @ University of Missouri, Columbia (’26)**  
 Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 
