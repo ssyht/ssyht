@@ -7,7 +7,7 @@
 
 # Sanjit Subhash
 
-**Technology Architecture Analyst at New York**  
+**Technology Architecture Analyst @ Accenture (New York)**  
 **Data Science @ University of Missouri, Columbia (’26)**  
 Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 
