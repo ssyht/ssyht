@@ -7,7 +7,7 @@
 
 # Sanjit Subhash
 
-**Technology Architecture Analyst @ Accenture (New York)**  
+**AI Native SWE @ Accenture (New York)**  
 **Data Science @ University of Missouri, Columbia (’26)**  
 Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 
@@ -16,7 +16,7 @@ Cloud/DevOps • Data Platforms • Confidential Computing • AI/ML
 ---
 
 ## Now
-- **Accepted Offer:** **Technology Architecture Analyst, Accenture (Manhattan, New York)** — excited to build reliable, scalable data platforms that power analytics and products.  
+- **Working Full-Time:** **AI Native SWE, Accenture (One Manhattan West, New York)**
 - Building **Terraform + Arculus** zero-trust lab modules for students (IaC, guardrails, SSM-only access).
 - Shipping **data migration** patterns (SQL Server → **Aurora PostgreSQL**) with DMS, Secrets Manager rotation, and event-driven CDC.
 - Prototyping **Confidential AI** workflows (LLMs + TEEs) and **medical image anomaly detection**.
